@@ -18,7 +18,6 @@ Working GTS Files :
 - tie.gts
 
 Self Made GTS File:
-- custom.gts
 - custom3D.gts
 
 **To Run the File:**
