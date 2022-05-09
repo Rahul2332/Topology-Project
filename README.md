@@ -16,3 +16,7 @@ Working GTS Files :
 - seashell.gts
 - space_shuttle.gts
 - tie.gts
+
+**To Run the File:**
+- g++ rahul.cpp Matrix.cpp
+- ./a.out <Filename>
