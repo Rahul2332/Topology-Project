@@ -17,6 +17,9 @@ Working GTS Files :
 - space_shuttle.gts
 - tie.gts
 
+Self Made GTS File:
+- custom.gts
+
 **To Run the File:**
 - g++ rahul.cpp Matrix.cpp
 - ./a.out <Filename>
